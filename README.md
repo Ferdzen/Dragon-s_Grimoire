@@ -1,4 +1,9 @@
-﻿# Dragon-s_Grimoire
+ 
+# Refatoração de projeto
+Neste fork do projeto de RPG estarei focando na refatoração do projeto, com o intuito de aplicar o framework VueJS - 3 para o frontend em primeiro momento. Em paralelo, estarei também organizando o backend, aplicando boas práticas de programação e estruturação de    pastas, para melhor organização.
+A intenção da refatoração é colocar estudos de boas práticas de programação em ação e praticar com o framework VueJS.
+ 
+# Dragon-s_Grimoire
 #Sistema Web de RPG para Mestres e Jogadores 🎲
 Bem-vindo ao repositório do nosso sistema web de RPG! Este projeto visa melhorar a experiência de jogos de mesa, proporcionando acesso fácil a recursos essenciais tanto para Mestres (DMs) quanto para jogadores.
 
